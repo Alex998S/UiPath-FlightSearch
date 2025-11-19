@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fIuHahIfREOtR6ZcHihoJA" Reference="IPbiJ7UCjEWSjJXWadCWsA/k-zzESQikkCNLnb9YFjxGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/otp/ory/251204/251210" DesignTimeRectangle="841, 559, 53, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='SPAN' parentclass='RoutePartial_routePartialArrive__*' class='BpkText_bpk-text__*RoutePartial_routePartialTime*' idx='{0}' /&gt;&quot;, IndividualFlightsIndex)]" Guid="dc8ed098-02d7-4272-9b82-7cc65adec8da" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="de2d0089ededea5ab175e89a6dcb6dd7.png" xmlns="">0AXDObzcE4E2bI7QTY_GHbw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="IndividualFlightsIndex">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>1</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

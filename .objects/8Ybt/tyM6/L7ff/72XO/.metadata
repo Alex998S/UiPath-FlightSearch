@@ -1,0 +1,17 @@
+﻿{
+  "Name": "For Each 'Flight offer'",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Id": "72XOBr7tjEWoIfzaM4ivXA",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/72XOBr7tjEWoIfzaM4ivXA",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "Created": "2025-10-22T04:12:36.9859633Z",
+  "Updated": "2025-11-07T04:23:38.2978447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

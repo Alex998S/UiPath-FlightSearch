@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vgiKNd8Otku73N6DhMkJRQ" Reference="IPbiJ7UCjEWSjJXWadCWsA/fLjsSy2vmEWchToyLsJe8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/otp/ory/251204/251210" CVScreenId="a1350242-79c6-468a-886f-4a532e6c36fa" DesignTimeRectangle="521, 561, 60, 30" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='DIV' class='LogoImage_container__* LogoImage_legLogoTicketBody__*' idx='{0}' /&gt;&lt;webctrl aaname='*' tag='IMG' class='BpkImage_bpk-image__img__*' parentclass='BpkImage_bpk-image__* BpkImage_bpk-image--no-background__*' alt='*' /&gt;&quot;, IndividualFlightsIndex)]" FuzzyMatches="10000" Guid="f627e57a-074e-4f5f-b54b-39b2176a7125" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7705db98875f2ef4f52ca202c3a131e5.png" xmlns="">0vofJE238a0ajqirGPWpSjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="1" Name="IndividualFlightsIndex" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

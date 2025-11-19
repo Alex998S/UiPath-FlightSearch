@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y5QV3qH3qUm0cdq2WKD_tg" Reference="IPbiJ7UCjEWSjJXWadCWsA/HulHGXAnCkaTsUEa5Cw4Rg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/otp/ory/251204/251210" DesignTimeRectangle="533, 408, 72, 35" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='dayview-first-result' tag='SPAN' class='BpkText_bpk-text__*BpkText*' parentclass='LogoImage_container__*LogoImage_legLogoTicketBody__*' idx='{0}' /&gt;&quot;, IndividualFlightsIndex)]" Guid="9377fdf9-632d-48e5-8e0b-0a51273db7bd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*Skyscanner' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="357463a7f8166ff057b6b71b956d3f2d.png" xmlns="">0v0gyslW5TEG73I9_HgO0fQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="IndividualFlightsIndex">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>1</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

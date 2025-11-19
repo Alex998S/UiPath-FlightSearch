@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Cheap flights from Bucharest to Evenes on Skyscanner",
+  "Type": "App",
+  "Id": "8YbthxudB0uoN1tJMOp_3Q",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/8YbthxudB0uoN1tJMOp_3Q",
+  "Created": "2025-10-21T14:42:33.716364Z",
+  "Updated": "2025-10-21T14:42:33.716364Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Price",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xBREet32AEGhugN8sqqZCg",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/xBREet32AEGhugN8sqqZCg",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "Created": "2025-10-24T03:45:49.5789111Z",
+  "Updated": "2025-11-07T05:09:15.8927259Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

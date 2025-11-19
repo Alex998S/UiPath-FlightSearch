@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Animawings + easyJet",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "HulHGXAnCkaTsUEa5Cw4Rg",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/HulHGXAnCkaTsUEa5Cw4Rg",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "Created": "2025-10-22T12:53:18.6933364Z",
+  "Updated": "2025-10-22T12:53:18.6933364Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

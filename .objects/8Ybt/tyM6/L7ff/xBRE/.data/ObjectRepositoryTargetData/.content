@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3jxfjE_HLUqmWinMIqQ5yA" Reference="IPbiJ7UCjEWSjJXWadCWsA/xBREet32AEGhugN8sqqZCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/otp/ory/251204/251210" CVScreenId="f125ebeb-7276-45a4-8505-705292b50868" DesignTimeRectangle="1043, 625, 57, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='SPAN' class='BpkText_bpk-text__*' parentclass='Price_ticketStubPrice__*' idx='{0}' /&gt;&quot;, FlightOptionIndex)]" Guid="920ef8c3-fe7b-4ab0-a26d-72b932b4914d" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c0f9e862e3477d2d49f38489c2790596.png" xmlns="">0RFnq8e9Za0K25Ji7oefuVw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="FlightOptionIndex">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>1</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

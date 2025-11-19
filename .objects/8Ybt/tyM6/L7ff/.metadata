@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SkyScanner window",
+  "Type": "Screen",
+  "Id": "L7ffyZmte0OREAtCvuULVw",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/tyM61IR6zE2dE2qGB8KP1w",
+  "Created": "2025-10-21T14:42:33.8365745Z",
+  "Updated": "2025-11-18T15:18:31.7308473Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Departure time",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "601S6w6pGEeW6NBuDbQW9g",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/601S6w6pGEeW6NBuDbQW9g",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "Created": "2025-11-07T04:24:47.8054018Z",
+  "Updated": "2025-11-12T04:50:11.9026127Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

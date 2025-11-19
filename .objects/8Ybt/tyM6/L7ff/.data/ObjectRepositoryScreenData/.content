@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ANGDxuYOBEW5PPisV_seFQ" Reference="IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-1928, -8, 1936, 1048" BrowserType="Chrome" ContentHash="KGg1V4-O40m41Or4nh3u7w" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPrZNNSwJRGIWvEONQ0Q9o13+IWrbuJ7iJIBKN/BiNoFW0aaEVQtAqIdq3ioiiwk0ZbVq4V2euxUwLQ52SVifOHa2mL5QaOHA47/O+3LkfQjdkWTecup6Q/cnrKYtgwnSDy48Ipp3+xJ646QrdkHUVJGV/SjvgSr4doCUldENCLFhK9Mx6GqAlJETERCBqYTJrK9EzY+3XAYGYhZGlGvJFF1pMYrvQUqJnxhqZHwcMpSTEbBWHpTZyhRbWTxpK9MxYI/NlgJZ2IKIW9m+esHftYiJrI3/pYjxjK9EzY40MWfb4VjAQszC6cofdKxeZsyZEqAIxU/UUqqiMNTJk/b+QcjBoSIyt3mN65wFrxw1sXTSxee6JnhlrZMiy521AYNHGVM5BsfKCg9tnbJw2cFRqo/vRM2ONDFn2vO9BysFwuuZtYtiEmKtCzJsKpOhVFjYVQ5Y9vj3gGQ/E/ZdFRHj+nWPriIy6D5838SPUk7oD/uMx/ek5vwJQQX6Nc7vGegAAAABJRU5ErkJggg==" Reference="IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw" Selector="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" Url="[SkyScannerURL]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed951ef3cdc0513917193d8920a3429d.jpg" xmlns="">0NP295-aM7EiqDhgPBGwmQg</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="SkyScannerURL" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

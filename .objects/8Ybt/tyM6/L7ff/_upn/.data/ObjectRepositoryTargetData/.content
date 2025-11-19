@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wQDf7aguYkeWUPQCTz1AVQ" Reference="IPbiJ7UCjEWSjJXWadCWsA/_upnNrF7-0CK98aIV0dhUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/otp/ory/251204/251210" DesignTimeRectangle="507, 573, 450, 178" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='DIV' class='FlightsTicket_container__*' idx='1' /&gt;&lt;webctrl tag='A' class='BookingPanelLink_link__*' parentclass='FlightsTicket_container__*' /&gt;&lt;webctrl class='Ticket_primaryContainer__*' parentid='app-root' tag='DIV' /&gt;" Guid="24992e80-82c6-437e-bd79-f91fb3c556fe" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="607e5dca88c28e73eaaef1f10e04a508.png" xmlns="">0yu3c5jgO6EagVmWQvNT4LA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

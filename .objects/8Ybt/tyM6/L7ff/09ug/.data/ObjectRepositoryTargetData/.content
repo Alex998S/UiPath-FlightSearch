@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2aAiObwGaEqlne3JJRDX-A" Reference="IPbiJ7UCjEWSjJXWadCWsA/09ugDxQLLUy3SpaLla9pIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.net/transport/flights/ory/cph/251106/251107" DesignTimeRectangle="521, 473, 648, 104" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='DIV' class='*NoResults_container*' /&gt;" Guid="b29afc71-d162-4019-8609-d58a2aa5c92e" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.net/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="424f228d0a65a70c8a61e4652d3bec99.png" xmlns="">0CV2szbD2RECYmx5H_aCxuA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

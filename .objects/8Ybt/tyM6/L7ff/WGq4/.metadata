@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Loading animation",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "WGq4anQjCEO4PcC5NTaPJA",
+  "Reference": "IPbiJ7UCjEWSjJXWadCWsA/WGq4anQjCEO4PcC5NTaPJA",
+  "ParentRef": "IPbiJ7UCjEWSjJXWadCWsA/L7ffyZmte0OREAtCvuULVw",
+  "Created": "2025-11-06T05:25:00.2170424Z",
+  "Updated": "2025-11-07T04:26:27.2296997Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
