@@ -1,13 +1,12 @@
 # Flight search automation
 
-The automation is going to be used to find the best flight options and store them into an excel file.
-Currently the automation searches for offers only on SkyScanner, but looking to add more websites to get the prices from.
+The automation is going to be used to find the best offers for 2 way flights and store them into an excel file.
 
 Example of offers saved in an excel file:
 
 <img width="1890" height="211" alt="Screenshot 2025-11-20 075959" src="https://github.com/user-attachments/assets/4e1f5084-9408-403f-96ab-38e6caceaf2d" />
 
-The automation uses queue items to search for flight offers with the following JSON schema:
+The automation uses queue items to search for flight offers. The queue name used is "FlightsToSearch" and uses the following JSON schema:
 
 ```
 {
@@ -40,3 +39,4 @@ The automation uses queue items to search for flight offers with the following J
   "$schema": "http://json-schema.org/draft-07/schema#"
 }
 ```
+The results found are stored in a storage bucket, named "FlightSearchBucket".
