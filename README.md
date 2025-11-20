@@ -47,7 +47,7 @@ Currently the automation has only two workflows ```Main``` and ```SkyScanner```,
 
 <img width="610" height="636" alt="Screenshot 2025-11-20 085643" src="https://github.com/user-attachments/assets/c15e310c-6e62-4322-a4bb-381fca5d1916" />
 
-## What's next
+## Features missing that are going to be added
 - add more websites to scrape data
 - support one way flights
 - ability to change the cabin class
