@@ -44,9 +44,10 @@ The results are stored in a storage bucket, named ```FlightSearchBucket```.
 Currently the automation has only two workflows ```Main``` and ```SkyScanner```, where ```SkyScanner``` workflow searches and saves the found offers.
 
 ```SkyScanner``` flowchart:
+
 <img width="610" height="636" alt="Screenshot 2025-11-20 085643" src="https://github.com/user-attachments/assets/c15e310c-6e62-4322-a4bb-381fca5d1916" />
 
 ## What's next
-Looking to add more websites to scrape data
-Support one way flights
-Ability to change the cabin class
+- add more websites to scrape data\
+- support one way flights\
+- ability to change the cabin class
