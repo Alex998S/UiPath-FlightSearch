@@ -6,7 +6,21 @@ Example of offers saved in an excel file:
 
 <img width="1890" height="211" alt="Screenshot 2025-11-20 075959" src="https://github.com/user-attachments/assets/4e1f5084-9408-403f-96ab-38e6caceaf2d" />
 
-The automation uses queue items to search for flight offers. The queue name used is ```FlightsToSearch``` and uses the following JSON schema:
+The automation uses the ```FlightsToSearch``` queue as input to search for flights.
+
+Example of queue item:
+
+```
+{
+  "DepartureAirport": "OTP",
+  "ArrivalAirport": "ORY",
+  "NumberOfAdults": 2.
+  "DepartureDate": "2026-02-11",
+  "ReturnDate": "2026-02-18"
+}
+```
+
+JSON schema:
 
 ```
 {
